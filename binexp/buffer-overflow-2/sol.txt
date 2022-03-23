@@ -1,0 +1,3 @@
+picoCTF{argum3nt5_4_d4yZ_eb489c7a}
+
+pad 0x70, then p64(addr), then p32(arg1), p32(arg2)

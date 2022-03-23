@@ -1,0 +1,4 @@
+picoCTF{addr3ss3s_ar3_3asy_b9797671}
+
+overflow buffer (32) + 12 for some random shit
+then put addr of win

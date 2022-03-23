@@ -1,0 +1,5 @@
+picoCTF{b1663r_15_b3773r_a0428cd7}
+
+overflow 72 then address + 2
+
+spent 20 extra mins not realizing i was getting flag

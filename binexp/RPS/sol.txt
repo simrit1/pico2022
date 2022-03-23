@@ -1,0 +1,3 @@
+picoCTF{50M3_3X7R3M3_1UCK_D80B11AA}
+
+gets substr to see if user has whatever bot needs to lose, so just do rockpaperscissors each time
